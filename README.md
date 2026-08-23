@@ -86,7 +86,7 @@ Built as a portfolio project to demonstrate practical AI/ML engineering: not jus
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/smart-invoice-extraction.git
+git clone https://github.com/hammadamin1/smart-invoice-extraction.git
 cd smart-invoice-extraction
 ```
 
@@ -95,7 +95,7 @@ cd smart-invoice-extraction
 - **HuggingFace** (VLM verification): [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens) — free tier, "Read" access token
 
 ### 3. Run it in Google Colab (recommended)
-1. Open `notebooks/invoice_extraction_pipeline.ipynb` in Colab
+1. Open `notebooks/Smart_Invoice_and_Document_Extraction_Pipeline.ipynb` in Colab
 2. Add your API keys via Colab's Secrets manager (🔑 icon in the sidebar):
    - `GROQ_API_KEY`
    - `HF_TOKEN`
