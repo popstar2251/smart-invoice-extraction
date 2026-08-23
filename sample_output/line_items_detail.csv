@@ -1,0 +1,44 @@
+invoice_number,description,quantity,unit_price,total
+BPXINV-00550,Dextromethorphan polistirex BPXPN-00057,10,12.45,124.5
+BPXINV-00550,Venlafaxine Hydrochloride BPXPN-00012,25,16.0,400.0
+BPXINV-00550,Metoclopramide Hydrochloride (BPXPO-00537) BPXPN-00002,25,9.99,249.75
+BPXINV-00550,"Avobenzone, octinoxate (BPXPO-00538) BPXPN-00027",10,4.45,44.5
+BPXINV-00550,Verapamil hydrochloride BPXPN-00066,10,7.89,78.9
+BPXINV-00550,Tiagabine hydrochloride BPXPN-00017,15,10.25,153.75
+BPXINV-00550,Ziprasidone hydrochloride (BPXPO-00537) BPXPN-00044,10,34.99,349.9
+BPXINV-00550,Risperidone BPXPN-00023,10,34.99,349.9
+BPXINV-00550,Metoprolol succinate BPXPN-00067,10,34.99,349.9
+BPXINV-00550,Acetaminophen BPXPN-00045,10,34.99,349.9
+BPXINV-00550,Sorafenib BPXPN-00018,15,16.0,240.0
+BPXINV-00550,Telmisartan BPXPN-00022,15,9.99,149.85
+BPXINV-00550,Famotidine BPXPN-00068,15,4.45,66.75
+BPXINV-00550,Methylphenidate Hydrochloride BPXPN-00005,15,7.89,118.35
+BPXINV-00550,Ibuprofen (BPXPO-00538),100,0.99,99.0
+BPXINV-00550,Metformin Hydrochloride (BPXPO-00538) BPXPN-00046,15,2.15,32.25
+BPXINV-00550,"Avobenzone, Octisalate and Octocrylene BPXPN-00069",15,16.99,254.85
+BPXINV-00550,Carisoprodol BPXPN-00070,10,34.99,349.9
+BPXINV-00550,Losartan Potassium BPXPN-00047,10,34.99,349.9
+BPXINV-00550,Pentazocine Hydrochloride and Naloxone Hydrochloride BPXPN-00051,10,34.99,349.9
+BPXINV-00550,Omeprazole BPXPN-00071,25,9.99,249.75
+BPXINV-00550,Losartan Potassium BPXPN-00019,25,4.45,111.25
+BPXINV-00550,Saline BPXPN-00048,10,7.89,78.9
+BPXINV-00550,Titanium dioxide BPXPN-00021,25,10.25,256.25
+BPXINV-00550,Bicalutamide (BPXPO-00538) BPXPN-00049,25,2.15,53.75
+BPXINV-00550,Ampicillin sodium BPXPN-00050,15,16.99,254.85
+BPXINV-00550,"Octinoxate, Titanium Dioxide, Octisalate BPXPN-00004",15,12.45,186.75
+BPXINV-00550,Cavia porcellus hair and cavia porcellus skin BPXPN-00020,25,12.45,311.25
+#INV-000101,Conducting a detailed discussion to understand project requirements and objectives.,1,150.0,150.0
+#INV-000101,"Creating a comprehensive project plan including timelines, resources, and milestones.",1,300.0,300.0
+#INV-000101,Assigning team members and allocating necessary resources for the project.,1,200.0,200.0
+#INV-000101,Developing a detailed budget plan to manage project finances effectively.,1,250.0,250.0
+#INV-000101,Identifying potential risks and developing mitigation strategies.,1,180.0,180.0
+003,Flyer Design,2,300.0,600.0
+003,Business Card Design,2,200.0,400.0
+003,Invoice Design,2,250.0,500.0
+003,Loga Design,10,500.0,500.0
+003,Web Design,1,500.0,500.0
+000009752,Deposit SV50,1,3615.0,3615.0
+000009752,ATM Withdrawal,1,20.0,20.0
+000009752,Check 1001,1,75.0,75.0
+000009752,Check 1002,1,30.0,30.0
+000009752,Check 1003,1,200.0,200.0

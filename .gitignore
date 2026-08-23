@@ -1,0 +1,28 @@
+# Environment / secrets
+.env
+*.env
+secrets.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Colab / Jupyter
+.virtual_documents/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large or personal test data (keep only intentional sample_invoices/ in the repo)
+invoices/
+normalized/
+*.csv
+!sample_output/*.csv
+
+# Model download caches
+rapidocr/models/
+*.onnx
+*.pth

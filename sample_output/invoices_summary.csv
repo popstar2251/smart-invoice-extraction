@@ -1,0 +1,5 @@
+invoice_number,date,vendor_name,bill_to_name,subtotal,tax,shipping,total_due,line_item_count,status,errors,warnings,vlm_validated,vlm_issues,source_file
+BPXINV-00550,2021-05-23,Bioplex,Roger Bigot bonbono,5964.5,596.45,50.0,6610.95,28,OK,None,None,Not checked,None,invoice-0-4.pdf
+#INV-000101,2025-02-20,Jennifer Thompson,John Smith,1080.0,15.0,0.0,1095.0,5,OK,None,None,Yes,None,invoice1.webp
+003,2020-02-12,Maggie's Clothing Co.,Ethan Meyer,2500.0,374.38,0.0,2874.38,5,OK,None,"Line item 3 ('Loga Design'): 10 x 500.0 = 5000.0, but total says 500.0",No,Line item 4: Description extracted as 'Loga Design' but image shows 'Logo Design'; Line item 4: Quantity extracted as 10 but image shows 01,invoice2.jfif
+000009752,2003-06-05,Connections Checking,Jane Customer,3940.0,0.0,0.0,3940.0,5,OK,None,None,Not checked,None,invoice3.png
